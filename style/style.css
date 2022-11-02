@@ -1,0 +1,17 @@
+body{
+  font-family:Helvetica;
+  background: rgb(230, 230, 230);
+  margin: auto;
+}
+.navbar-brand{
+  font-size: 400%;
+}
+.navbar-nav{
+  margin-left: auto;
+  font-size: 200%;
+}
+.row{
+	margin-top:100px;
+	min-height:100px;
+	justify-content:space-between;
+}
